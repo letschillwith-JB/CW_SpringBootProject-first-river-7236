@@ -9,8 +9,8 @@
 <body>
     <div>
     <h1>Online Trip management System</h1>
-    <li>We have developed this REST API for an Online Trip Management System. This API performs all the fundamental CRUD operations of any Trip Management Application platform with user validation at every step.</h3></li> 
-  <li></li>
+    <li>I have developed this REST API for an Online Trip Management System. This API performs all the fundamental CRUD operations of any Trip Management Application platform with user validation at every step.</h3></li> 
+  
 <h2>Tech Steck</h2>
 <li>Java</li> 
 <li>Spring Framework</li>  
